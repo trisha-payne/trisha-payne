@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trisha-payne
-- 👀 I’m interested in web development, design, and foreign languages.
+- 👀 I’m interested in ui/ux design, programming, and foreign languages.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on projects that can improve my development skills.
+- 💞️ Very sleepy and burned out.
 - 📫 How to reach me: don't💗
 
 <!---
